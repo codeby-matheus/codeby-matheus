@@ -1,2 +1,8 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:f83600,100:f9d423&height=250&section=header&text=Matheus&fontSize=80&animation=fadeIn&fontAlignY=35&desc=codeby-matheus&descAlignY=55&descSize=20)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Matheus!;Desenvolvedor+%7C+codeby-matheus;Seja+bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+<table>
+<tr>
+<td><img src="LINK_STATS" /></td>
+<td><img src="LINK_LANGS" /></td>
+</tr>
+</table>
