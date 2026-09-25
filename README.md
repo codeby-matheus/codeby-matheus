@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Matheus!;Desenvolvedor+%7C+codeby-matheus;Seja+bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 <table>
 <tr>
-<td><img src="LINK_STATS" /></td>
-<td><img src="LINK_LANGS" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api?username=codeby-matheus&show_icons=true&theme=tokyonight&hide_border=true" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeby-matheus&layout=compact&theme=tokyonight&hide_border=true" /></td>
 </tr>
 </table>
